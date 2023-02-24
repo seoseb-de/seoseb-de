@@ -1,3 +1,4 @@
+Hi, I’m Seb 👋 I’m an SEO Consultant collecting a few helpful things for my work.
 
 [![BioLink](https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white
 )](https://bio.link/seoseb)
