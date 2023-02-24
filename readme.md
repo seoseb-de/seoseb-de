@@ -1,4 +1,6 @@
 
+[![BioLink](https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white
+)](https://bio.link/seoseb)
 [![Instagram](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white)](https://seocommunity.social/@seoseb)
 [![Polywork](https://img.shields.io/badge/polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=white
 )](https://www.polywork.com/seoseb)
